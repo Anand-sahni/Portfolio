@@ -27,6 +27,7 @@ import python1 from '../assets/python1.png';
 import react2 from '../assets/react2.png';
 
 import profile from '../assets/profile.png';
+import finalHero from '../assets/finalHero.png';
 import circle from '../assets/circle.svg';
 import logo1 from '../assets/logo1.png';
 import todo from '../assets/todo.jpg';
@@ -63,6 +64,7 @@ export default {
   about03,
   about04,
   profile,
+  finalHero,
   circle,
   logo1,
   react1,
